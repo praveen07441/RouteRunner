@@ -1,0 +1,122 @@
+[
+  {
+    "id": "D001",
+    "customerName": "Arun Kumar",
+    "address": "Electronic City, Bengaluru",
+    "expectedPackages": 2,
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "priority": "Urgent",
+    "status": "Pending"
+  },
+  {
+    "id": "D002",
+    "customerName": "Priya Sharma",
+    "address": "HSR Layout, Bengaluru",
+    "expectedPackages": 1,
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D003",
+    "customerName": "Rahul Verma",
+    "address": "BTM Layout, Bengaluru",
+    "expectedPackages": 3,
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "priority": "Urgent",
+    "status": "Pending"
+  },
+  {
+    "id": "D004",
+    "customerName": "Sneha Reddy",
+    "address": "Bommanahalli, Bengaluru",
+    "expectedPackages": 1,
+    "startTime": "10:30",
+    "endTime": "11:30",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D005",
+    "customerName": "Karthik Raj",
+    "address": "Koramangala, Bengaluru",
+    "expectedPackages": 2,
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D006",
+    "customerName": "Divya S",
+    "address": "Silk Board, Bengaluru",
+    "expectedPackages": 1,
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D007",
+    "customerName": "Vijay Kumar",
+    "address": "Marathahalli, Bengaluru",
+    "expectedPackages": 4,
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "priority": "Urgent",
+    "status": "Pending"
+  },
+  {
+    "id": "D008",
+    "customerName": "Meena Patel",
+    "address": "Bellandur, Bengaluru",
+    "expectedPackages": 1,
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D009",
+    "customerName": "Suresh B",
+    "address": "Whitefield, Bengaluru",
+    "expectedPackages": 2,
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D010",
+    "customerName": "Anitha Rao",
+    "address": "Indiranagar, Bengaluru",
+    "expectedPackages": 1,
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D011",
+    "customerName": "Manoj S",
+    "address": "Jayanagar, Bengaluru",
+    "expectedPackages": 2,
+    "startTime": "14:30",
+    "endTime": "15:30",
+    "priority": "Normal",
+    "status": "Pending"
+  },
+  {
+    "id": "D012",
+    "customerName": "Deepa Kumar",
+    "address": "JP Nagar, Bengaluru",
+    "expectedPackages": 3,
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "priority": "Normal",
+    "status": "Pending"
+  }
+]
